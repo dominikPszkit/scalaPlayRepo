@@ -1,0 +1,13 @@
+New log file opened at Thu May 07 15:12:52 GMT+01:00 2015 by 4868@Dominik7
+Taking next connection to: 63443
+New client attempting to connect on port: 63444-63443
+  Address = /10.31.52.40:63443
+This client on port 63444 has uuid d6742e93-4bbf-41cf-9f4c-0a3f104a6f6c configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-d6742e93-4bbf-41cf-9f4c-0a3f104a6f6c
+Taking next connection to: 63443
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 4868@Dominik7 logs at Thu May 07 15:15:59 GMT+01:00 2015, goodbye.

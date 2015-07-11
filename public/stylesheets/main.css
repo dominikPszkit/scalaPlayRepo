@@ -1,0 +1,44 @@
+#content{
+width:700px;
+background-color:#DBDBFF;
+display:block-inline;
+height:400px;
+
+margin:0 auto;
+margin-top:50px;
+padding:50px;
+}
+#nextButton{
+cursor:pointer;
+width:100px;
+height:100px;
+
+ margin-left:10px;
+ margin-top:20px;
+}
+
+#tak{
+cursor:pointer;
+width:100px;
+height:100px;
+
+ margin-left:10px;
+  margin-top:25px;
+}
+
+#nie{
+cursor:pointer;
+width:100px;
+height:100px;
+
+ margin-left:10px;
+  margin-top:25px;
+}
+#buttonPanel{
+width:120px;
+height:400px;
+background-color:#F0D1E0;
+float:right;
+
+}
+#panel{background-color:white; width:500px;height:400px; float:left;  text-align:center; line-height:400px; margin:0 auto; font-size:20px;overflow: hidden;}
